@@ -1,0 +1,80 @@
+① Google 官方（10分钟）
+
+↓
+
+② 今天项目需求（5分钟）
+
+↓
+
+③ 我给最终代码（20分钟）
+
+↓
+
+④ 我解释设计思想 + 面试点（20分钟）
+
+
+
+
+
+Day1
+环境
+Composable
+Modifier
+Column
+
+Day2
+Row
+Box
+Alignment
+Arrangement
+
+Day3
+Button
+TextField
+State
+remember
+
+Day4
+LazyColumn
+Card
+Image
+
+Day5
+Theme
+Material3
+项目首页
+
+Day6
+复盘 + 做首页
+
+Compose                ███
+Navigation             █
+MVVM                   ████
+Retrofit               ███
+Coroutines             ███
+StateFlow              ████
+项目整理               ███
+
+
+
+Google 官方文档：
+
+只看下面几个。
+
+✅ Thinking in Compose
+
+✅ Layouts
+
+✅ Modifiers
+
+✅ State
+
+✅ Text
+
+✅ Button
+
+✅ TextField
+
+✅ Lazy Lists
+
+结束。
